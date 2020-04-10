@@ -5,4 +5,5 @@ public class Controlador {
 	String n2;
 	String n3;
 	String n4;
+	String paola;
 }
