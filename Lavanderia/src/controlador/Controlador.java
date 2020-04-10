@@ -2,5 +2,5 @@ package controlador;
 
 public class Controlador {
 
-	//Este es un comentario de angel
+	//Este es un comentario de Angel
 }
