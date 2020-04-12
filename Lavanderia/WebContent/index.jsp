@@ -47,10 +47,11 @@ href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
     </ul>
     <ul class="navbar-nav mr-auto">
     	<li class="nav-item">
-        	<a class="nav-link" href="#">Inicia Sesión</a>
+        	<a class="nav-link" href="Login.jsp">Inicia Sesión</a>
       	</li>
      </ul>
   </div>
 </nav>
+
 </body>
 </html>
