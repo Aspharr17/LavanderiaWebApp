@@ -5,7 +5,7 @@ function validation()
 	if(user!="" && pass!="")
 	{
 		alert("Sesion iniciada");
-		document.forms[0].action = "index.jsp"
+		document.forms[0].action = "Controlador?user="+user+"&pass="+pass;
         document.forms[0].method = "post";
         document.forms[0].submit();
 		
